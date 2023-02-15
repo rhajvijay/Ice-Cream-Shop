@@ -1,0 +1,26 @@
+  .navbar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #ff7f7f; 
+  }
+
+  .navbar-brand img{
+    width: 60px;
+  }
+  .container{
+    margin-top: 20px;
+  }
+  .card {
+    margin: 10px;
+  }
+  .card img {
+    height: 200px;
+  }
+  .card-text {
+    font-size: 14px;
+    color: #666;
+    margin: 5px;
+  }
+  body {
+    background-color: #f2f2f2; /* a relative color */
+  }
